@@ -1,14 +1,20 @@
 <div align="center">
 
 <a href="https://penmenghong.hushstackcambodia.site" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:0f172a&height=210&section=header&text=Pen%20Menghong&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=210&section=header&text=Pen%20Menghong&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0D9488&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js;Building+DevLearnHub+%F0%9F%9A%80;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js;Building+DevLearnHub+%F0%9F%9A%80;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
 
 <br/>
 
-[![Portfolio 2026](https://img.shields.io/badge/Portfolio_2026-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://penmenghong.hushstackcambodia.site)
+![Web Development](https://img.shields.io/badge/💻_Web_Development-EFF6FF?style=flat-square&color=EFF6FF&labelColor=EFF6FF&logoColor=1D4ED8)
+![Problem Solver](https://img.shields.io/badge/🧠_Problem_Solver-EFF6FF?style=flat-square&color=EFF6FF&labelColor=EFF6FF)
+![Always Learning](https://img.shields.io/badge/📚_Always_Learning-EFF6FF?style=flat-square&color=EFF6FF&labelColor=EFF6FF)
+
+<br/>
+
+[![Portfolio 2026](https://img.shields.io/badge/Portfolio_2026-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://penmenghong.hushstackcambodia.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pen-menghong-301b71341)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menghong-Git)
 
@@ -16,12 +22,18 @@
 
 <br/>
 
-## About
+## About Me
 
-- 💼 Full-Stack Developer working across **TypeScript, React/Next.js, and Node.js**
-- 🚀 Currently building **DevLearnHub** and a portfolio of production web apps for clients
-- 🎯 Focused on clean architecture, performance, and shipping polished UI
-- 📍 Phnom Penh, Cambodia
+I'm **Pen Menghong**, a Full-Stack Developer with a strong interest in building scalable, user-friendly web applications. I enjoy turning ideas into reality through clean code, modern technologies, and continuous learning.
+
+<div align="center">
+
+| 🛠️ | 📚 | 🤝 | ❤️ |
+|:---:|:---:|:---:|:---:|
+| **Real Projects** | **Self-Learner** | **Team Player** | **Passionate** |
+| Shipped, live apps | Always improving my skills | Communicate & collaborate well | About tech & innovation |
+
+</div>
 
 <br/>
 
@@ -29,7 +41,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git,github,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,php,laravel,mysql,git,github,vscode,figma&theme=dark" />
 
 </div>
 
@@ -45,7 +57,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   </td>
   <td align="right">
-    <a href="https://penmenghong.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://penmenghong.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </td>
 </tr>
 <tr>
@@ -55,7 +67,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   </td>
   <td align="right">
-    <a href="https://devlearnhub-nine.vercel.app"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://devlearnhub-nine.vercel.app"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </td>
 </tr>
 <tr>
@@ -65,7 +77,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   </td>
   <td align="right">
-    <a href="https://dev-scholarar-website.scholarar.com"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://dev-scholarar-website.scholarar.com"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </td>
 </tr>
 <tr>
@@ -75,7 +87,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   </td>
   <td align="right">
-    <a href="https://tools.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://tools.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </td>
 </tr>
 <tr>
@@ -85,7 +97,7 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
   </td>
   <td align="right">
-    <a href="https://restaurant.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+    <a href="https://restaurant.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   </td>
 </tr>
 </table>
@@ -98,10 +110,21 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Menghong-Git&color=0D9488&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Menghong-Git&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:0f172a&height=100&section=footer" width="100%"/>
+<div align="center">
+
+### 🚀 Let's Build Something Great
+I'm always open to new opportunities and exciting projects.
+
+[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge&logoColor=white)](https://penmenghong.hushstackcambodia.site)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0f172a,100:1e3a8a&height=100&section=footer" width="100%"/>
 
 </div>
