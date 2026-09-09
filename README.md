@@ -1,24 +1,16 @@
 <div align="center">
 
 <a href="https://penmenghong.hushstackcambodia.site" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e293b&height=200&section=header&text=Pen%20Menghong&fontSize=42&fontColor=e2e8f0&animation=fadeIn&fontAlignY=42" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:0f172a&height=210&section=header&text=Pen%20Menghong&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
 </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0D9488&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js;Building+DevLearnHub+%F0%9F%9A%80;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=900&color=2DD4BF&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;TypeScript+%C2%B7+React+%2F+Next.js+%C2%B7+Node.js;Building+DevLearnHub+%F0%9F%9A%80;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
-
-<br/><br/>
-
-<a href="https://penmenghong.hushstackcambodia.site">
-  <img src="https://img.shields.io/badge/Portfolio_2026-2DD4BF?style=flat-square&logo=vercel&logoColor=0f172a&labelColor=0f172a" />
-</a>
-<a href="https://www.linkedin.com/in/pen-menghong-301b71341">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Menghong-Git">
-  <img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" />
-</a>
+[![Portfolio 2026](https://img.shields.io/badge/Portfolio_2026-0D9488?style=for-the-badge&logo=vercel&logoColor=white)](https://penmenghong.hushstackcambodia.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pen-menghong-301b71341)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menghong-Git)
 
 </div>
 
@@ -27,7 +19,7 @@
 ## About
 
 - 💼 Full-Stack Developer working across **TypeScript, React/Next.js, and Node.js**
-- 🚀 Currently building **DevLearnHub** and a set of production web apps for clients
+- 🚀 Currently building **DevLearnHub** and a portfolio of production web apps for clients
 - 🎯 Focused on clean architecture, performance, and shipping polished UI
 - 📍 Phnom Penh, Cambodia
 
@@ -37,14 +29,7 @@
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,git,github,vercel&theme=dark" />
 
 </div>
 
@@ -52,13 +37,58 @@
 
 ## Featured Projects
 
-| Project | Live | Stack |
-|---|---|---|
-| **[Portfolio 2026](https://penmenghong.hushstackcambodia.site)** — personal portfolio | [Visit ↗](https://penmenghong.hushstackcambodia.site) | Next.js, TypeScript |
-| **[DevLearnHub](https://devlearnhub-nine.vercel.app)** — online learning platform | [Visit ↗](https://devlearnhub-nine.vercel.app) | Next.js, TypeScript |
-| **[Scholarar Website](https://dev-scholarar-website.scholarar.com)** — company website | [Visit ↗](https://dev-scholarar-website.scholarar.com) | Next.js, TypeScript |
-| **[Khmer Tools](https://tools.hushstackcambodia.site)** — utility toolkit | [Visit ↗](https://tools.hushstackcambodia.site) | Next.js |
-| **[Restaurant App](https://restaurant.hushstackcambodia.site)** — restaurant ordering UI | [Visit ↗](https://restaurant.hushstackcambodia.site) | Next.js |
+<table>
+<tr>
+  <td width="55%">
+    <b>Portfolio 2026</b><br/>
+    <sub>Personal portfolio site</sub><br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  </td>
+  <td align="right">
+    <a href="https://penmenghong.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="55%">
+    <b>DevLearnHub</b><br/>
+    <sub>Online learning platform</sub><br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  </td>
+  <td align="right">
+    <a href="https://devlearnhub-nine.vercel.app"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="55%">
+    <b>Scholarar Website</b><br/>
+    <sub>Company website</sub><br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  </td>
+  <td align="right">
+    <a href="https://dev-scholarar-website.scholarar.com"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="55%">
+    <b>Khmer Tools</b><br/>
+    <sub>Utility toolkit</sub><br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  </td>
+  <td align="right">
+    <a href="https://tools.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  </td>
+</tr>
+<tr>
+  <td width="55%">
+    <b>Restaurant App</b><br/>
+    <sub>Restaurant ordering UI</sub><br/>
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+  </td>
+  <td align="right">
+    <a href="https://restaurant.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-0D9488?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  </td>
+</tr>
+</table>
 
 <br/>
 
@@ -68,8 +98,10 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Menghong-Git&color=2DD4BF&style=flat-square&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Menghong-Git&color=0D9488&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,100:0f172a&height=100&section=footer" width="100%"/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:134e4a,100:0f172a&height=100&section=footer" width="100%"/>
 
 </div>
