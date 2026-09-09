@@ -1,129 +1,335 @@
 <div align="center">
 
-<a href="https://penmenghong.hushstackcambodia.site" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:0f172a&height=210&section=header&text=Pen%20Menghong&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
-</a>
+# 👋 Hello, I'm
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=2563EB&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;TypeScript+%C2%B7+React%2FNext.js+%C2%B7+Node.js;Building+DevLearnHub+%F0%9F%9A%80;Based+in+Phnom+Penh%2C+Cambodia" alt="Typing SVG" />
+# **Pen Menghong**
 
-<br/>
+### Full-Stack Developer
 
-![Web Development](https://img.shields.io/badge/💻_Web_Development-DBEAFE?style=for-the-badge&color=DBEAFE)
-![Problem Solver](https://img.shields.io/badge/🧠_Problem_Solver-DBEAFE?style=for-the-badge&color=DBEAFE)
-![Always Learning](https://img.shields.io/badge/📚_Always_Learning-DBEAFE?style=for-the-badge&color=DBEAFE)
+Building modern web applications with **clean code, creative solutions, and a passion for technology.**
 
-<br/>
+<p>
+  <a href="https://penmenghong.hushstackcambodia.site">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Menghong-Git">
+    <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pen-menghong-301b71341">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-[![Portfolio 2026](https://img.shields.io/badge/Portfolio_2026-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://penmenghong.hushstackcambodia.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pen-menghong-301b71341)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Menghong-Git)
-
-</div>
-
-<br/>
-
-## About Me
-
-I'm **Pen Menghong**, a Full-Stack Developer with a strong interest in building scalable, user-friendly web applications. I enjoy turning ideas into reality through clean code, modern technologies, and continuous learning.
-
-<div align="center">
-
-| ![Real Projects](https://img.shields.io/badge/🛠️_Real_Projects-2563EB?style=for-the-badge) | ![Self-Learner](https://img.shields.io/badge/📚_Self--Learner-16A34A?style=for-the-badge) | ![Team Player](https://img.shields.io/badge/🤝_Team_Player-9333EA?style=for-the-badge) | ![Passionate](https://img.shields.io/badge/❤️_Passionate-DB2777?style=for-the-badge) |
-|:---:|:---:|:---:|:---:|
-| Shipped, live apps | Always improving my skills | Communicate & collaborate well | About tech & innovation |
+![Web Development](https://img.shields.io/badge/💻%20Web%20Development-EFF6FF-2563EB?style=flat-square)
+![Problem Solver](https://img.shields.io/badge/🧠%20Problem%20Solver-EFF6FF-2563EB?style=flat-square)
+![Always Learning](https://img.shields.io/badge/📚%20Always%20Learning-EFF6FF-2563EB?style=flat-square)
 
 </div>
 
-<br/>
+---
 
-## Tech Stack
+## 👨‍💻 About Me
 
-<div align="center">
+I am **Pen Menghong**, a passionate Full-Stack Developer interested in building scalable and user-friendly web applications.
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,php,laravel,mysql,git,github,vscode,figma&theme=dark" />
-
-</div>
-
-<br/>
-
-## Featured Projects
+I enjoy turning ideas into practical products through **clean code, modern technologies, thoughtful UI/UX, and continuous learning**.
 
 <table>
 <tr>
-  <td width="55%">
-    <b>Portfolio 2026</b><br/>
-    <sub>Personal portfolio site</sub><br/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  </td>
-  <td align="right">
-    <a href="https://penmenghong.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  </td>
-</tr>
-<tr>
-  <td width="55%">
-    <b>DevLearnHub</b><br/>
-    <sub>Online learning platform</sub><br/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  </td>
-  <td align="right">
-    <a href="https://devlearnhub-nine.vercel.app"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  </td>
-</tr>
-<tr>
-  <td width="55%">
-    <b>Scholarar Website</b><br/>
-    <sub>Company website</sub><br/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  </td>
-  <td align="right">
-    <a href="https://dev-scholarar-website.scholarar.com"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  </td>
-</tr>
-<tr>
-  <td width="55%">
-    <b>Khmer Tools</b><br/>
-    <sub>Utility toolkit</sub><br/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  </td>
-  <td align="right">
-    <a href="https://tools.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  </td>
-</tr>
-<tr>
-  <td width="55%">
-    <b>Restaurant App</b><br/>
-    <sub>Restaurant ordering UI</sub><br/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-  </td>
-  <td align="right">
-    <a href="https://restaurant.hushstackcambodia.site"><img src="https://img.shields.io/badge/Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  </td>
+<td align="center" width="25%">
+
+### 🛠️
+**Real Projects**
+
+Building and shipping real-world applications.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📚
+**Self-Learner**
+
+Always improving my skills and exploring new technologies.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤝
+**Team Player**
+
+Communicate, collaborate, and solve problems together.
+
+</td>
+
+<td align="center" width="25%">
+
+### ❤️
+**Passionate**
+
+Passionate about technology and innovation.
+
+</td>
 </tr>
 </table>
 
-<br/>
+---
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Portfolio 2026
+
+Personal developer portfolio showcasing my skills, experience, projects, and technologies.
+
+**Tech**
+
+`Next.js` `TypeScript` `React`
+
+<a href="https://penmenghong.hushstackcambodia.site">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🎓 DevLearnHub
+
+An online learning platform designed to provide developers with educational resources, tools, articles, and exercises.
+
+**Tech**
+
+`Next.js` `TypeScript` `React`
+
+<a href="https://devlearnhub-nine.vercel.app">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎓 Scholarar Website
+
+A modern company website focused on education and scholarship opportunities.
+
+**Tech**
+
+`Next.js` `TypeScript` `Strapi`
+
+<a href="https://dev-scholarar-website.scholarar.com">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🧰 Khmer Tools
+
+A collection of useful online tools designed for everyday productivity and convenience.
+
+**Tech**
+
+`Next.js` `TypeScript`
+
+<a href="https://tools.hushstackcambodia.site">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🍽️ Restaurant App
+
+A modern restaurant ordering interface with a clean and user-friendly experience.
+
+**Tech**
+
+`Next.js` `TypeScript`
+
+<a href="https://restaurant.hushstackcambodia.site">
+<img src="https://img.shields.io/badge/View%20Project-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 💻 More Projects
+
+Explore my GitHub repositories to see more experiments, applications, and development projects.
+
+<a href="https://github.com/Menghong-Git">
+<img src="https://img.shields.io/badge/Explore%20GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Menghong-Git&show_icons=true&theme=transparent&hide_border=true&title_color=2563EB&icon_color=2563EB&text_color=334155"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Menghong-Git&layout=compact&theme=transparent&hide_border=true&title_color=2563EB&text_color=334155"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Menghong-Git/Menghong-Git/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Menghong-Git&color=2563EB&style=for-the-badge&label=PROFILE+VIEWS)
-
 </div>
 
-<br/>
+---
+
+## 📈 Contribution Graph
 
 <div align="center">
 
-### 🚀 Let's Build Something Great
-I'm always open to new opportunities and exciting projects.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Menghong-Git&bg_color=ffffff&color=2563EB&line=2563EB&point=0F172A&area=true&hide_border=true" width="100%"/>
 
-[![Get In Touch](https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge&logoColor=white)](https://penmenghong.hushstackcambodia.site)
+</div>
+
+---
+
+## 💡 What I Focus On
+
+<table>
+<tr>
+
+<td>
+
+### 🎨 Frontend Development
+
+- React
+- Next.js
+- TypeScript
+- Tailwind CSS
+- Responsive UI
+- Modern UX
+
+</td>
+
+<td>
+
+### ⚙️ Backend Development
+
+- Node.js
+- Express
+- PHP
+- Laravel
+- REST APIs
+- Database integration
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🗄️ Data & Tools
+
+- MySQL
+- PostgreSQL
+- MongoDB
+- Git
+- GitHub
+- Postman
+
+</td>
+
+<td>
+
+### 🚀 Development
+
+- Clean Code
+- Problem Solving
+- API Integration
+- Deployment
+- Continuous Learning
+- Team Collaboration
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🚀 Let's Build Something Great
+
+**I'm always open to new opportunities, collaborations, and exciting projects.**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,50:0f172a,100:1e3a8a&height=100&section=footer" width="100%"/>
+<a href="https://penmenghong.hushstackcambodia.site">
+<img src="https://img.shields.io/badge/Let's%20Work%20Together-2563EB?style=for-the-badge&logoColor=white"/>
+</a>
+
+<br/>
+<br/>
+
+<a href="https://github.com/Menghong-Git">
+<img src="https://komarev.com/ghpvc/?username=Menghong-Git&color=2563EB&style=flat-square&label=PROFILE+VIEWS"/>
+</a>
+
+<br/>
+<br/>
+
+**© 2026 Pen Menghong · Built with passion and code.**
 
 </div>
