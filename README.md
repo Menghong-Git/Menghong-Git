@@ -8,9 +8,9 @@
 
 <br/>
 
-![Web Development](https://img.shields.io/badge/💻_Web_Development-EFF6FF?style=flat-square&color=EFF6FF&labelColor=EFF6FF&logoColor=1D4ED8)
-![Problem Solver](https://img.shields.io/badge/🧠_Problem_Solver-EFF6FF?style=flat-square&color=EFF6FF&labelColor=EFF6FF)
-![Always Learning](https://img.shields.io/badge/📚_Always_Learning-EFF6FF?style=flat-square&color=EFF6FF&labelColor=EFF6FF)
+![Web Development](https://img.shields.io/badge/💻_Web_Development-DBEAFE?style=for-the-badge&color=DBEAFE)
+![Problem Solver](https://img.shields.io/badge/🧠_Problem_Solver-DBEAFE?style=for-the-badge&color=DBEAFE)
+![Always Learning](https://img.shields.io/badge/📚_Always_Learning-DBEAFE?style=for-the-badge&color=DBEAFE)
 
 <br/>
 
@@ -28,9 +28,8 @@ I'm **Pen Menghong**, a Full-Stack Developer with a strong interest in building 
 
 <div align="center">
 
-| 🛠️ | 📚 | 🤝 | ❤️ |
+| ![Real Projects](https://img.shields.io/badge/🛠️_Real_Projects-2563EB?style=for-the-badge) | ![Self-Learner](https://img.shields.io/badge/📚_Self--Learner-16A34A?style=for-the-badge) | ![Team Player](https://img.shields.io/badge/🤝_Team_Player-9333EA?style=for-the-badge) | ![Passionate](https://img.shields.io/badge/❤️_Passionate-DB2777?style=for-the-badge) |
 |:---:|:---:|:---:|:---:|
-| **Real Projects** | **Self-Learner** | **Team Player** | **Passionate** |
 | Shipped, live apps | Always improving my skills | Communicate & collaborate well | About tech & innovation |
 
 </div>
